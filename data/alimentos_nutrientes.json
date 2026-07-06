@@ -1,0 +1,37 @@
+[
+  {
+    "alimento": "Aveia em flocos",
+    "grupo": "Cereal integral",
+    "principais_nutrientes": ["fibra alimentar", "ferro", "magnésio"],
+    "beneficio_informativo": "Fonte de fibras que ajudam na saciedade e no funcionamento do intestino.",
+    "porcao_referencia": "30g (3 colheres de sopa)"
+  },
+  {
+    "alimento": "Iogurte natural",
+    "grupo": "Laticínio",
+    "principais_nutrientes": ["cálcio", "proteína", "probióticos"],
+    "beneficio_informativo": "Contribui para a saúde óssea e intestinal. Versões sem lactose existem para quem tem intolerância.",
+    "porcao_referencia": "170g (1 pote)"
+  },
+  {
+    "alimento": "Abacate",
+    "grupo": "Fruta",
+    "principais_nutrientes": ["gordura insaturada", "potássio", "fibra"],
+    "beneficio_informativo": "Fonte de gordura considerada benéfica ao coração quando consumida com moderação.",
+    "porcao_referencia": "50g (1/4 de unidade média)"
+  },
+  {
+    "alimento": "Refrigerante comum",
+    "grupo": "Bebida açucarada",
+    "principais_nutrientes": ["açúcar simples"],
+    "beneficio_informativo": "Alto teor de açúcar e baixo valor nutricional; consumo frequente está associado a maior ingestão calórica sem saciedade.",
+    "porcao_referencia": "350ml (1 lata)"
+  },
+  {
+    "alimento": "Lentilha cozida",
+    "grupo": "Leguminosa",
+    "principais_nutrientes": ["proteína vegetal", "ferro", "fibra"],
+    "beneficio_informativo": "Boa fonte de proteína vegetal e fibras, útil para quem busca variar fontes proteicas.",
+    "porcao_referencia": "100g (4 colheres de sopa)"
+  }
+]
