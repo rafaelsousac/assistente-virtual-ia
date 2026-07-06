@@ -1,0 +1,20 @@
+{
+  "id_usuario": "usr_001",
+  "nome": "Camila Souza",
+  "idade": 29,
+  "objetivo_principal": "Entender melhor o que come no dia a dia",
+  "nivel_conhecimento_nutricao": "iniciante",
+  "restricoes_alimentares": [
+    "intolerância à lactose"
+  ],
+  "preferencias": [
+    "prefere explicações com exemplos práticos",
+    "gosta de comparar rótulos antes de comprar"
+  ],
+  "topicos_de_interesse": [
+    "leitura de rótulos",
+    "mitos sobre alimentação",
+    "grupos alimentares"
+  ],
+  "observacao": "Perfil mockado para fins de prototipagem. Não representa uma pessoa real e não deve ser usado para decisões de saúde."
+}

@@ -1,0 +1,6 @@
+id_registro,data,refeicao,alimento,quantidade_estimativa,observacao
+1,2026-06-01,café da manhã,Aveia em flocos,1 porção,relatado pela pessoa usuária
+2,2026-06-01,almoço,Lentilha cozida,1 porção,relatado pela pessoa usuária
+3,2026-06-02,lanche da tarde,Iogurte natural,1 unidade,versão sem lactose
+4,2026-06-03,jantar,Abacate,1/2 unidade,relatado pela pessoa usuária
+5,2026-06-04,lanche,Refrigerante comum,1 lata,consumo ocasional relatado

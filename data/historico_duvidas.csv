@@ -1,0 +1,7 @@
+id_interacao,data,pergunta,categoria,resposta_encontrada_na_base
+1,2026-06-01,O que significa 'light' no rótulo?,glossario,sim
+2,2026-06-02,Carboidrato à noite engorda mais?,faq_mito,sim
+3,2026-06-03,Qual o melhor suplemento para emagrecer?,fora_de_escopo,nao
+4,2026-06-05,Qual a diferença entre gordura saturada e insaturada?,glossario,sim
+5,2026-06-07,Posso substituir leite por iogurte se tenho intolerância à lactose?,fora_de_escopo,nao
+6,2026-06-10,Frutas com açúcar fazem mal?,faq_mito,sim
